@@ -22,4 +22,4 @@ To view the generated test report, download it from the following directory:
 
 `/playwright-report`
 
-![alt text](image.png)
+![alt text](report-example.png)
