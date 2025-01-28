@@ -6,6 +6,10 @@
 
 Language: JavaScript
 
+## Tested Platform
+
+Chrome, Mozilla, Safari, Mobile
+
 ### Running the Tests
 
 To install dependencies and execute the test suite, run the following commands:
